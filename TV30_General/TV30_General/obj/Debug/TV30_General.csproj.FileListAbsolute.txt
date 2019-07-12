@@ -1,0 +1,7 @@
+E:\VS_Exemple\TV30_General\TV30_General\bin\Debug\TV30_General.exe.config
+E:\VS_Exemple\TV30_General\TV30_General\bin\Debug\TV30_General.exe
+E:\VS_Exemple\TV30_General\TV30_General\bin\Debug\TV30_General.pdb
+E:\VS_Exemple\TV30_General\TV30_General\obj\Debug\TV30_General.csprojAssemblyReference.cache
+E:\VS_Exemple\TV30_General\TV30_General\obj\Debug\TV30_General.csproj.CoreCompileInputs.cache
+E:\VS_Exemple\TV30_General\TV30_General\obj\Debug\TV30_General.exe
+E:\VS_Exemple\TV30_General\TV30_General\obj\Debug\TV30_General.pdb
